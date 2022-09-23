@@ -8,6 +8,3 @@ for letter in text:
         ans += " ".join(' ')
 
 print(ans)
-
-# text = 'In a hole in the ground there lived a hobbit.'
-# или text=input('type text')
